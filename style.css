@@ -42,11 +42,12 @@
     font-weight: lighter;
     color: hsl(220, 15%, 55%);
  }
-img{
+.img{
     border-radius: 10px;
      margin: auto;
      display: block;
     width: 13.5em;
      height: 13em;
      margin-top: 6px;
+     background: url('img2.png');
 }
